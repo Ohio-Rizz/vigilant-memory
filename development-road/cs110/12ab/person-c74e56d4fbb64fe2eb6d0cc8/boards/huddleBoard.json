@@ -1,0 +1,97 @@
+{
+  "notes": "Our mission is to build a playable bounty hunting game with at least three bounties, a score system, and a win or game over screen. In our huddle we compared our ideas for the mission and agreed to keep the game small so we can finish it.\n\nThe diagram shows the mission at the top, connected to three jobs. [Name 1] builds the game and scoring. [Name 2] designs the posters, menus, and art. [Name 3] tests the game, keeps the bug list, and checks that every asset’s license lets us use it. All three jobs lead to the finished prototype at the bottom.\n\nWe decided that each person owns one job so nothing is missed, and that we will check in again before the deadline. One disagreement was whether to add more bounties or finish a smaller game first, and we chose to finish three bounties first. One open question is how we will save high scores. we used claude to get the answers",
+  "strokes": [],
+  "images": [],
+  "nodes": [
+    {
+      "id": "3f5332b4-4cb2-461a-97f7-3d3e70463454",
+      "kind": "rect",
+      "x": 0,
+      "y": 0,
+      "w": 0.13588110403397027,
+      "h": 0.25956872449143553,
+      "color": "#153f48",
+      "text": "Mission (top center): “Playable bounty hunting game”"
+    },
+    {
+      "id": "4cbbd1c1-0930-4cb3-81e1-ef9d1011412b",
+      "kind": "text",
+      "x": 0.11248948836434786,
+      "y": 0.08261754025130957,
+      "w": 0.18,
+      "h": 0.14,
+      "color": "#153f48",
+      "text": ""
+    },
+    {
+      "id": "8f7b9d05-3737-4985-9b6c-55f51e466865",
+      "kind": "ellipse",
+      "x": 0.24588110403397032,
+      "y": 0.05978436224571776,
+      "w": 0.17375171724740848,
+      "h": 0.19361410161647974,
+      "color": "#153f48",
+      "text": "Mission (top center): “Playable bounty hunting game”"
+    },
+    {
+      "id": "c2d404df-a52e-467e-8f8a-e2680e077434",
+      "kind": "rect",
+      "x": 0.3909125348653263,
+      "y": 0.012687919786611823,
+      "w": 0.20989509179467958,
+      "h": 0.5944721534852331,
+      "color": "#153f48",
+      "text": "Three boxes below it, each connected to the mission:\nBuild (code, scoring, bounty logic): [Leah Aluni]\nDesign (wanted posters, menus, art): [Nicolas Kuhnast]\nTest and credits (playtesting, bug list, asset licenses): [George Arbache]"
+    },
+    {
+      "id": "a288437c-2dcf-4e62-850f-20f97e13aec5",
+      "kind": "text",
+      "x": 0.4881607759876775,
+      "y": 0.09084455442362696,
+      "w": 0.18,
+      "h": 0.14,
+      "color": "#153f48",
+      "text": ""
+    },
+    {
+      "id": "3dae29d9-e8b1-46ee-b51c-138a7658e972",
+      "kind": "rect",
+      "x": 0.6107202031555722,
+      "y": 0,
+      "w": 0.1592727197035928,
+      "h": 0.27567535430793455,
+      "color": "#153f48",
+      "text": "An arrow from all three boxes to a final box: Finished prototype (3+ bounties)"
+    },
+    {
+      "id": "65acb691-e8d1-4096-b289-2fef8f7da028",
+      "kind": "text",
+      "x": 0.6573460721868365,
+      "y": 0.29857666227464086,
+      "w": 0.18,
+      "h": 0.14,
+      "color": "#153f48",
+      "text": ""
+    },
+    {
+      "id": "e4e96ecc-9dfd-43b1-ba4f-9b893075c11d",
+      "kind": "text",
+      "x": 0.6093880354689647,
+      "y": 0.30269016936079957,
+      "w": 0.17126222888306064,
+      "h": 0.31475367162644213,
+      "color": "#153f48",
+      "text": "Use the text or sticky-note tool to add a note like “Open question: how do we save high scores?”"
+    }
+  ],
+  "edges": [
+    {
+      "id": "ec695b38-0f1f-408d-8d52-573f8f31597f",
+      "from": "3f5332b4-4cb2-461a-97f7-3d3e70463454",
+      "fromPort": "e",
+      "to": "8f7b9d05-3737-4985-9b6c-55f51e466865",
+      "toPort": "w",
+      "color": "#153f48"
+    }
+  ]
+}
