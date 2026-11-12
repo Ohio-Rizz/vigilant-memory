@@ -1,0 +1,22 @@
+{
+  "verificationCode": "VIEW-768D7906597AD04E5494DAEB",
+  "code": "FORM-4D9EA83C7E3633EDA2D39329",
+  "kind": "pitch",
+  "name": "Andy Jimenez",
+  "person": "PERSON-C74E56D4FBB64FE2EB6D0CC8",
+  "issued": "2026-11-10T22:16:17.446Z",
+  "data": {
+    "understand": "tt",
+    "offer": "ggh",
+    "limits": "gy",
+    "availability": "Preferred contact: Classroom\nxxx",
+    "tools": "hhh",
+    "aiTool": "AI: Claude, Gemini, ChatGpt\nTask: It'll be both a team member \nVerification: bgbbgbg",
+    "ai": {
+      "name": "Claude, Gemini, ChatGpt",
+      "task": "It'll be both a team member",
+      "verify": "bgbbgbg"
+    }
+  },
+  "digest": "ae2fd47585648319841ae393b648e9710c196ee507f6ea0dfca7bbdfbded57cf"
+}
