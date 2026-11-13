@@ -24,7 +24,7 @@
         "opinion": "This will help in the future for my story when we start running into issues both in our product and when we start slowing down on ideas.",
         "questions": "What do we want our app to be and how we want it to function."
       },
-      "currentPage": 50,
+      "currentPage": 0,
       "prepBoard": {
         "notes": "Unhappiness breeds unhappiness.",
         "strokes": [
@@ -73669,7 +73669,7 @@
       "opinion": "This will help in the future for my story when we start running into issues both in our product and when we start slowing down on ideas.",
       "questions": "What do we want our app to be and how we want it to function."
     },
-    "currentPage": 50,
+    "currentPage": 0,
     "prepBoard": {
       "notes": "Unhappiness breeds unhappiness.",
       "strokes": [
@@ -107508,7 +107508,7 @@
   "prefs": {
     "schemaVersion": 1,
     "theme": "development-road",
-    "lastPage": 50,
+    "lastPage": 0,
     "timerMinutes": 10
   }
 }
