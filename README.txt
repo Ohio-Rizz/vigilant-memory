@@ -5,3 +5,4 @@ Copy this folder to USB. Keep reports containing TIME codes in your instructor-a
 work.json restores your editable draft through My work in the live assignment. Numbered PDFs preserve issued records; Working-Draft.pdf is not issued. The HTML Print / save PDF button prints the styled report.
 Copy your actual engine/source files into project-source/ separately; the browser cannot collect your external Unity project.
 Canvas submission: your personal GitHub repository URL AND your named public VIEW code. Include PERSONAL-SUBMISSION-CODE.txt separately alongside your own work, even in a team folder. Add the same name/code in the Canvas submission comment. The professor checks every person’s code first.
+I added the last sketch on the github I drew it on the physical board
